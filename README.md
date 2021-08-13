@@ -1,1 +1,1 @@
-# Module-2-Coding-Assignment.githup.io
+# Module-2-Coding-Assignment.github.io
